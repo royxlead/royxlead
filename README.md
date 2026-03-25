@@ -73,5 +73,3 @@ Open to collaboration in:
 
 LinkedIn: https://linkedin.com/in/royxlead  
 Email: royxlead@gmail.com  
-
-![AI Banner](https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop)
