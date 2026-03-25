@@ -4,7 +4,7 @@ AI Engineer with a focus on building intelligent, scalable systems across machin
 
 Graduated in Computer Science (Artificial Intelligence) with strong performance in core subjects including Machine Learning, Deep Learning, and Natural Language Processing. Alongside academics, accumulated 2.5+ years of hands-on industry experience working on applied AI systems, model deployment, and LLM-driven applications.
 
-Work centers on designing end-to-end AI systems — from data pipelines and model development to deployment and optimization — with a focus on real-world impact rather than isolated experiments.
+Work centers on designing end-to-end AI systems, from data pipelines and model development to deployment and optimization, with a focus on real-world impact rather than isolated experiments.
 
 ---
 
@@ -73,3 +73,5 @@ Open to collaboration in:
 
 LinkedIn: https://linkedin.com/in/royxlead  
 Email: royxlead@gmail.com  
+
+![AI Banner](https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop)
