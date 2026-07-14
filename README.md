@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 This Account Has Been Archived
 
-<!--
-**royxlead/royxlead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome.
 
-Here are some ideas to get you started:
+This GitHub account is **no longer my primary account** and is kept online to preserve older repositories, commit history, and existing links.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Active GitHub Profile
+
+**Primary GitHub:** **@royxforge**
+
+All current projects, active development, and future repositories are maintained here.
+
+**GitHub:** https://github.com/royxforge
+
+## About This Account
+
+This profile contains a selection of older repositories that I have chosen to keep for archival purposes. Some repositories have been migrated to my primary account, while others remain here to preserve their original history and references.
+
+Unless otherwise noted, repositories on this account are no longer actively maintained.
+
+## Connect
+
+* **GitHub:** https://github.com/royxforge
+* **LinkedIn:** https://www.linkedin.com/in/royxforge/
+* **Email:** [royxforge@gmail.com](mailto:royxforge@gmail.com)
+
+## Looking for My Latest Work?
+
+For my latest projects, ongoing development, and future updates, please visit **@royxforge**.
+
+Thank you for stopping by.
